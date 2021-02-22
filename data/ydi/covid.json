@@ -1,0 +1,28 @@
+{
+    "key": "covid",
+    "heading": "Was schätzen Sie: Wie stark ist der CO2-Ausstoß während der Corona-Pandemie im Jahr 2020 gesunken?",
+    "subheading": "",
+    "result": "Die Maßnahmen gegen die Corona-Pandemie haben auch den Ausstoss von CO2 beeinflusst. Während die weltweite Menge an Kohlenstoffdioxid in den vergangenen Jahren jährlich im Durchschnitt um etwa 1 Prozent stieg, geht das Global Carbon Project davon aus, dass im Jahr 2020 weltweit sieben Prozent weniger CO2 ausgestossen wurden. Das hängt vor allem damit zusammen, dass die Wirtschaft heruntergfahren und durch die strengen Reiseeinschränkungen weniger geflogen wurde. So sanken die Emissionen beispielsweise im Verkehrssektor um 22 Prozent.",
+    "accessibility": "Der weltweite CO2-Ausstoss sank wegen der Covid-Pandemie im Jahr 2020 um sieben Prozent im Vergleich zum Jahr 2019.",
+    "source": {
+        "url": "https://www.globalcarbonproject.org/news/TemporaryReductionInCO2EmissionsDuringCOVID-19.html",
+        "title": "Global Carbon Project"
+    },
+    "knownData": [
+        {
+            "label": "2019",
+            "value": 36441
+        }
+    ],
+    "unknownData": {
+        "label": "2020",
+        "value": 34041
+    },
+    "maxY": 50000,
+    "initialGuess": 36441,
+    "unit": " Mio. t",
+    "precision": 0,
+    "customMargin": {
+        "left": 110
+    }
+}

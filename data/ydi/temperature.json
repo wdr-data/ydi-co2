@@ -1,0 +1,260 @@
+{
+    "key": "temperature",
+    "heading": "Was schätzen Sie: Wie hat sich die jährliche Durchschnittstemperatur in Deutschland seit 1995 entwickelt?",
+    "subheading": "",
+    "result": "Klima ist nicht Wetter. Diese richtige Aussage nutzen gerne Klimawandelleugner, und erklären, dass ein heißer Sommer kein Beweis für die Erderwärmung sei. Das stimmt auch. Jedoch wirkt sich das Klima langfristig auch auf das Wetter aus. Und das kann man auch an der Jahresmitteltemperatur in Deutschland ablesen. Im Jahr 1960 lag diese bei 8,4 Grad Celsius, 1995 bei 8,9 und im Jahr 2019 bei 10,3.",
+    "accessibility": "Die Jahresmitteltemperatur ist von 8,9 Grad Celsius im Jahr 1995 auf 10,3 Grad Celsius im jähr 2019 angestiegen.",
+    "source": {
+        "url": "https://www.dwd.de/DE/klimaumwelt/aktuelle_meldungen/200103/temperatur_d_2019_langfristig.html?nn=344870",
+        "title": "Deutscher Wetterdienst"
+    },
+    "knownData": [
+        {
+            "label": "60",
+            "value": 8.4
+        },
+        {
+            "label": "61",
+            "value": 9
+        },
+        {
+            "label": "62",
+            "value": 7.2
+        },
+        {
+            "label": "63",
+            "value": 7.1
+        },
+        {
+            "label": "64",
+            "value": 8.1
+        },
+        {
+            "label": "65",
+            "value": 7.5
+        },
+        {
+            "label": "66",
+            "value": 8.5
+        },
+        {
+            "label": "67",
+            "value": 8.9
+        },
+        {
+            "label": "68",
+            "value": 8.2
+        },
+        {
+            "label": "69",
+            "value": 7.8
+        },
+        {
+            "label": "70",
+            "value": 7.7
+        },
+        {
+            "label": "71",
+            "value": 8.4
+        },
+        {
+            "label": "72",
+            "value": 7.8
+        },
+        {
+            "label": "73",
+            "value": 8.2
+        },
+        {
+            "label": "74",
+            "value": 8.8
+        },
+        {
+            "label": "75",
+            "value": 8.9
+        },
+        {
+            "label": "76",
+            "value": 8.5
+        },
+        {
+            "label": "77",
+            "value": 8.7
+        },
+        {
+            "label": "78",
+            "value": 7.8
+        },
+        {
+            "label": "79",
+            "value": 7.7
+        },
+        {
+            "label": "80",
+            "value": 7.6
+        },
+        {
+            "label": "81",
+            "value": 8.2
+        },
+        {
+            "label": "82",
+            "value": 8.9
+        },
+        {
+            "label": "83",
+            "value": 9
+        },
+        {
+            "label": "84",
+            "value": 8
+        },
+        {
+            "label": "85",
+            "value": 7.4
+        },
+        {
+            "label": "86",
+            "value": 7.9
+        },
+        {
+            "label": "87",
+            "value": 7.4
+        },
+        {
+            "label": "88",
+            "value": 9.1
+        },
+        {
+            "label": "89",
+            "value": 9.5
+        },
+        {
+            "label": "90",
+            "value": 9.5
+        },
+        {
+            "label": "91",
+            "value": 8.4
+        },
+        {
+            "label": "92",
+            "value": 9.4
+        },
+        {
+            "label": "93",
+            "value": 8.5
+        },
+        {
+            "label": "94",
+            "value": 9.7
+        },
+        {
+            "label": "95",
+            "value": 8.9
+        }
+    ],
+    "unknownData": [
+        {
+            "label": "96",
+            "value": 7.2
+        },
+        {
+            "label": "97",
+            "value": 8.9
+        },
+        {
+            "label": "98",
+            "value": 9.1
+        },
+        {
+            "label": "99",
+            "value": 9.5
+        },
+        {
+            "label": "00",
+            "value": 9.9
+        },
+        {
+            "label": "01",
+            "value": 9
+        },
+        {
+            "label": "02",
+            "value": 9.6
+        },
+        {
+            "label": "03",
+            "value": 9.4
+        },
+        {
+            "label": "04",
+            "value": 8.9
+        },
+        {
+            "label": "05",
+            "value": 9
+        },
+        {
+            "label": "06",
+            "value": 9.6
+        },
+        {
+            "label": "07",
+            "value": 9.9
+        },
+        {
+            "label": "08",
+            "value": 9.5
+        },
+        {
+            "label": "09",
+            "value": 9.2
+        },
+        {
+            "label": "10",
+            "value": 7.9
+        },
+        {
+            "label": "11",
+            "value": 9.6
+        },
+        {
+            "label": "12",
+            "value": 9.1
+        },
+        {
+            "label": "13",
+            "value": 8.7
+        },
+        {
+            "label": "14",
+            "value": 10.3
+        },
+        {
+            "label": "15",
+            "value": 9.9
+        },
+        {
+            "label": "16",
+            "value": 9.5
+        },
+        {
+            "label": "17",
+            "value": 9.6
+        },
+        {
+            "label": "18",
+            "value": 10.5
+        },
+        {
+            "label": "19",
+            "value": 10.3
+        }
+    ],
+    "maxY": 15,
+    "unit": "°C",
+    "precision": 1,
+    "customMargin": {},
+    "ticks": 10
+}
