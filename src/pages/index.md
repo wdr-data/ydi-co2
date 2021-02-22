@@ -5,7 +5,7 @@ author: Jörn Kießler
 pub_date: "2021-02-24"
 heroImage: "ydi-co2.jpg"
 heroAlt: "Eisberg in der Antarktis"
-heroCredit: "Credit"
+heroCredit: "dpa/Felipe Dana"
 sharingImageFacebook: "ydi-co2_facebook.jpg"
 sharingImageTwitter: "ydi-co2_twitter.jpg"
 cg1: "WDR"

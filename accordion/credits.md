@@ -1,8 +1,8 @@
 ### Bildrechte:
 
-- - Aufmacher-Bild: TODO
+- - Aufmacher-Bild: dpa/Felipe Dana
 
 ### Credits
 
-- **Redaktion:** Jörn Kießler
+- **Redaktion:** Rainer Kellers
 - **Programmierung:** Jannes Höke
