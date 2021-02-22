@@ -31,5 +31,8 @@ module.exports = {
         path: `${__dirname}/accordion`
       }
     }
-  ]
+  ],
+  flags: {
+    DEV_SSR: false,
+  }
 };
