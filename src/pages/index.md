@@ -1,13 +1,13 @@
 ---
-title: "Opern-Spielpläne in NRW: tot und männlich"
-description: WDR 3 Datenanalyse der Opern-Spielzeit 2018/2019
-author: Niklas Rudolph, Patricia Ennenbach
-pub_date: "2019-07-15"
-heroImage: "richard-wagner-und-freunde.jpg"
-heroAlt: "Richard Wagner und seine Freunde"
-heroCredit: "Richard Wagner und seine Freunde"
-sharingImageFacebook: "richard-wagner-und-freunde_facebook.jpg"
-sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
+title: "Was schätzen Sie: CO2"
+description: WDR-Quiz zum CO2-Ausstoß
+author: Jörn Kießler
+pub_date: "2021-02-24"
+heroImage: "ydi-co2.jpg"
+heroAlt: "Eisberg in der Antarktis"
+heroCredit: "Credit"
+sharingImageFacebook: "ydi-co2_facebook.jpg"
+sharingImageTwitter: "ydi-co2_twitter.jpg"
 cg1: "WDR"
 cg2: "Data"
 cg3: "WDR 3"
