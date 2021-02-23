@@ -26,7 +26,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Vor fast 30 Jahren einigte sich die Weltgemeinschaft darauf, dass der Klimawandel eine ernsthafte Bedrohung ist. Seit 1995 wird jährlich auf der UN-Klimakonferenz verhandelt, wie die menschgemachte Erderwärmung zumindest gebremst werden kann. Doch oft sind nur Kompromisse möglich, weil sonst die Gefahr besteht, dass Staaten - wie zuletzt die USA - aus dem Abkommen aussteigen.
 
-Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Klimawandel ins Stocken. Wegen der Krise musste die 26. Auflage der Klimakonferenz um ein Jahr verschoben werden und soll erst im November dieses Jahres stattfinden. 
+Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Klimawandel ins Stocken. Wegen der Krise musste die 26. Auflage der Klimakonferenz um ein Jahr verschoben werden und soll erst im November dieses Jahres stattfinden.
 
 Doch wie steht es überhaupt um Erderwärmung, CO2-Emissionen und Meeresspiegelanstieg?
 
@@ -50,7 +50,7 @@ Auch vor Deutschland macht der Klimawandel nicht halt. Sogenannte Extremwetterer
 
 ### Meeresspiegelanstieg
 
-Hauptfolge der Erderwärmung ist das Abschmelzen des arktischen Meereises und der Anstieg des Meeresspiegels. Regelmäßig veröffentlicht der Weltklimarat dazu aktualisierte Prognosen - so auch im vergangenen Jahr. 
+Hauptfolge der Erderwärmung ist das Abschmelzen des arktischen Meereises und der Anstieg des Meeresspiegels. Regelmäßig veröffentlicht der Weltklimarat dazu aktualisierte Prognosen - so auch im vergangenen Jahr.
 
 <YDIBar name="sealevel"/>
 
@@ -66,7 +66,6 @@ Dass der Ausstoß von Treibhausgasen wie CO2 schnell und effektiv reduziert werd
 
 <YDIBar name="covid"/>
 
-#### [Klimawandel: Diese radikalen Maßnahmen schlagen Wissenschaftler vor](https://https://www1.wdr.de/nachrichten/klimawandel-massnahmen-corona-100.html "WDR.de")
-
+<Link title="Klimawandel: Diese radikalen Maßnahmen schlagen Wissenschaftler vor" href="https://https://www1.wdr.de/nachrichten/klimawandel-massnahmen-corona-100.html"/>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

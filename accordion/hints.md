@@ -4,4 +4,4 @@ Diese Seite verwendet Webtrekk, um Daten über das Interaktions- und Nutzungsver
 
 ### Fehler melden
 
-Für Hinweise und die Meldung von Fehlern schreiben Sie uns an [kontakt@jkiessler.de](mailto:kontakt@jkiessler.de).
+Für Hinweise und die Meldung von Fehlern schreiben Sie uns an [wdraktuell@wdr.de](mailto:wdraktuell@wdr.de).
