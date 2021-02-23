@@ -24,17 +24,17 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 # Wie steht es um den Klimaschutz?
 
-Vor fast 30 Jahren einigte sich die Weltgemeinschaft darauf, dass der Klimawandel eine ernsthafte Bedrohung ist. Seit 1995 wird jährlich auf der UN-Klimakonferenz verhandelt, wie die menschgemachte Erderwärmung zumindest gebremst werden kann. Doch oft sind nur Kompromisse möglich, weil sonst die Gefahr besteht, dass Staaten - wie zuletzt die USA - aus den geschlossenen Abkommen aussteigen. 
+Vor fast 30 Jahren einigte sich die Weltgemeinschaft darauf, dass der Klimawandel eine ernsthafte Bedrohung ist. Seit 1995 wird jährlich auf der UN-Klimakonferenz verhandelt, wie die menschgemachte Erderwärmung zumindest gebremst werden kann. Doch oft sind nur Kompromisse möglich, weil sonst die Gefahr besteht, dass Staaten - wie zuletzt die USA - aus dem Abkommen aussteigen.
 
-Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Klimawandel ins Stocken. Wegen der Krise musste die 26. Auflage um ein Jahr verschoben werden und soll erst im November dieses Jahres stattfinden. 
+Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Klimawandel ins Stocken. Wegen der Krise musste die 26. Auflage der Klimakonferenz um ein Jahr verschoben werden und soll erst im November dieses Jahres stattfinden. 
 
-Doch wie steht es überhaupt im Bezug auf Erderwärmung, CO2-Emissionen und Meeresspiegelanstieg?
+Doch wie steht es überhaupt um Erderwärmung, CO2-Emissionen und Meeresspiegelanstieg?
 
 # Was schätzen Sie?
 
 ## Wie weit sind wir im Kampf gegen den Klimawandel?
 
-Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
+Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
 ### CO2-Emissionen
 
@@ -44,7 +44,7 @@ Die entscheidende Stellschraube, um die Erderwärmung zumindest zu begrenzen, si
 
 ### Temperaturanstieg
 
-Auch in Deutschland macht der Klimawandel nicht halt. Sogenannte Extremwetterereignisse wie lange trockene Perioden oder starke Regenfälle mehren sich. Doch wird es auch wärmer bei uns?
+Auch vor Deutschland macht der Klimawandel nicht halt. Sogenannte Extremwetterereignisse wie lange trockene Perioden oder starke Regenfälle mehren sich. Doch wird es auch wärmer bei uns?
 
 <YDILine name="temperature"/>
 
@@ -62,7 +62,7 @@ Mit dem Motto "America first" begründete der damalige US-Präsident Donald Trum
 
 ### Entschlossene Maßnahmen zeigen Wirkung
 
-Dass der Ausstoß von Treibhausgasen wie CO2 schnell und effektiv reduziert werden kann, hat die Corona-Pandemie gezeigt. Durch die Lockdowns weltweit, während denen die Wirtschaft heruntergefahren wurde und unter anderem weniger Flugzeuge unterwegs waren, wurde auch die Umwelt entlastet.
+Dass der Ausstoß von Treibhausgasen wie CO2 schnell und effektiv reduziert werden kann, hat die Corona-Pandemie gezeigt. Durch die weltweiten Lockdowns, während denen die Wirtschaft heruntergefahren wurde und unter anderem weniger Flugzeuge unterwegs waren, wurde auch die Umwelt entlastet.
 
 <YDIBar name="covid"/>
 
