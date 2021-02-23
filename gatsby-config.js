@@ -1,7 +1,7 @@
 const Config = require("./starter-config")
 
 module.exports = {
-  pathPrefix: Config.pathPrefix,
+  ...Config,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sharp`,
