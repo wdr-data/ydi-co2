@@ -20,7 +20,7 @@
     },
     "maxY": 9000,
     "initialGuess": 1490,
-    "unit": "Mrd €/Jahr",
+    "unit": " Mrd €/Jahr",
     "precision": 1,
     "customMargin": {
         "left": 130
