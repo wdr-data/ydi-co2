@@ -258,5 +258,6 @@
     "customMargin": {
         "left": 55
     },
-    "ticks": 10
+    "ticks": 12,
+    "includeLast": true
 }
