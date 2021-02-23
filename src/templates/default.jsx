@@ -19,7 +19,7 @@ import { StaticQuery, graphql } from "gatsby";
 import FrontmatterContext from './frontmatterContext';
 
 const DefaultTemplate = data => {
-  const URL = `https://data.wdr.de${Config.pathPrefix}/`;
+  const URL = `${Config.origin}${Config.pathPrefix}/`;
   const frontmatter = data.pageContext.frontmatter;
   const pub_date = new Date(Date.parse(frontmatter.pub_date + "T00:00:00.000Z"));
 
