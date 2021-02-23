@@ -23,6 +23,6 @@
     "unit": " Mrd €/Jahr",
     "precision": 1,
     "customMargin": {
-        "left": 130
+        "left": 135
     }
 }
