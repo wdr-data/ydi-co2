@@ -22,7 +22,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 ## CO2, Erderwärmung, Meeresspiegel und Co.
 
-# Wie steht es um den Klimaschutz
+# Wie steht es um den Klimaschutz?
 
 Vor fast 30 Jahren einigte sich die Weltgemeinschaft darauf, dass der Klimawandel eine ernsthafte Bedrohung ist. Seit 1995 wird jährlich auf der UN-Klimakonferenz verhandelt, wie die menschgemachte Erderwärmung zumindest gebremst werden kann. Doch oft sind nur Kompromisse möglich, weil sonst die Gefahr besteht, dass Staaten - wie zuletzt die USA - aus den geschlossenen Abkommen aussteigen. 
 
@@ -32,7 +32,7 @@ Doch wie steht es überhaupt im Bezug auf Erderwärmung, CO2-Emissionen und Meer
 
 # Was schätzen Sie?
 
-## Wie weit sind wir im Kampf gegen den Klimawandel
+## Wie weit sind wir im Kampf gegen den Klimawandel?
 
 Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
