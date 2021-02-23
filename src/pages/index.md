@@ -56,13 +56,17 @@ Hauptfolge der Erderwärmung ist das Abschmelzen des arktischen Meereises und de
 
 ### Umweltschäden auch schlecht für die Wirtschaft
 
-Mit dem Motto "America first", also die USA vor allen anderen, begründete der ehemalige US-Präsident Donald Trump 2019 den Austritt seines Landes aus dem Klimaabkommen. Der Klimawandel sei eine Erfindung der Chinesen und schade vor allem der Wirtschaft des USA, so die Rechtfertigung. Doch auch die Erderwärmung hat  wirtschaftliche für die ganze Welt - und somit auch die USA.
+Mit dem Motto "America first" begründete der ehemalige US-Präsident Donald Trump 2019 den Austritt seines Landes aus dem Klimaabkommen. Der Klimawandel sei eine Erfindung der Chinesen und schade vor allem der amerikanischen Wirtschaft, so die Rechtfertigung. Doch auch die Erderwärmung hat wirtschaftliche Folgen für die ganze Welt - und somit auch die USA.
 
 <YDIBar name="costs"/>
 
 ### Entschlossene Maßnahmen zeigen Wirkung
 
+Dass der Ausstoß von Traibhausgasen wie CO2 reduziert werden kann, hat die Corona-Pandemie gezeigt. Durch die Lockdowns weltweit, während denen die Wirtschaft heruntergefahren wurde und unter anderem weniger geflogen wurde, wurde auch die Umwelt entlastet.
 
 <YDIBar name="covid"/>
+
+[Klimawandel: Diese radikalen Maßnahmen schlagen Wissenschaftler vor](https://https://www1.wdr.de/nachrichten/klimawandel-massnahmen-corona-100.html "WDR.de")
+
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
