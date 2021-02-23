@@ -20,9 +20,9 @@ import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 
-## CO2, Erderwärmung, Meeresspiegel und Co.
+## CO2, Erderwärmung, Meeresspiegel
 
-# Wie steht es um den Klimaschutz?
+# Wie weit sind wir im Kampf gegen den Klimawandel
 
 Vor fast 30 Jahren einigte sich die Weltgemeinschaft darauf, dass der Klimawandel eine ernsthafte Bedrohung ist. Seit 1995 wird jährlich auf der UN-Klimakonferenz verhandelt, wie die menschgemachte Erderwärmung zumindest gebremst werden kann. Doch oft sind nur Kompromisse möglich, weil sonst die Gefahr besteht, dass Staaten - wie zuletzt die USA - aus dem Abkommen aussteigen.
 
@@ -30,9 +30,7 @@ Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Kl
 
 Doch wie steht es überhaupt um Erderwärmung, CO2-Emissionen und Meeresspiegelanstieg?
 
-# Was schätzen Sie?
-
-## Wie weit sind wir im Kampf gegen den Klimawandel?
+## Was schätzen Sie?
 
 Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
