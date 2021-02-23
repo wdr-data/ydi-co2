@@ -1,6 +1,6 @@
 ---
-title: "Was schätzen Sie: CO2"
-description: WDR-Quiz zum CO2-Ausstoß
+title: "Was schätzen Sie: Klimawandel"
+description: WDR-Quiz zum Klimawandel
 author: Jörn Kießler
 pub_date: "2021-02-24"
 heroImage: "ydi-co2.jpg"
