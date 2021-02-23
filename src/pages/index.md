@@ -42,13 +42,26 @@ Die entscheidende Stellschraube, um die Erderwärmung zumindest zu begrenzen, si
 
 <YDILine name="co2"/>
 
+### Temperaturanstieg
 
+Auch in Deutschland macht der Klimawandel nicht halt. Sogenannte Extremwetterereignisse wie lange trockene Perioden oder starke Regenfälle mehren sich. Doch wird es auch wärmer bei uns?
 
 <YDILine name="temperature"/>
 
+### Meeresspiegelanstieg
+
+Hauptfolge der Erderwärmung ist das Abschmelzen des arktischen Meereises und der Anstieg des Meeresspiegels. Regelmäßig veröffentlicht der Weltklimarat dazu aktualisierte Prognosen - so auch im vergangenen Jahr. 
+
 <YDIBar name="sealevel"/>
 
+### Umweltschäden auch schlecht für die Wirtschaft
+
+Mit dem Motto "America first", also die USA vor allen anderen, begründete der ehemalige US-Präsident Donald Trump 2019 den Austritt seines Landes aus dem Klimaabkommen. Der Klimawandel sei eine Erfindung der Chinesen und schade vor allem der Wirtschaft des USA, so die Rechtfertigung. Doch auch die Erderwärmung hat  wirtschaftliche für die ganze Welt - und somit auch die USA.
+
 <YDIBar name="costs"/>
+
+### Entschlossene Maßnahmen zeigen Wirkung
+
 
 <YDIBar name="covid"/>
 
