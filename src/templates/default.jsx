@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import Config from "../../gatsby-config";
+import Config from "../../starter-config";
 
 import Header from "../components/header/header.jsx";
 
