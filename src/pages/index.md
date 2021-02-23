@@ -36,7 +36,7 @@ Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den 
 
 ### CO2-Emissionen
 
-Die entscheidende Stellschraube, um die Erderwärmung zumindest zu begrenzen, sind die CO2-Emissionen. Schon bei der ersten Klimakonferenz 1995 in Berlin einigten sich die teilnehmenden Staaten darauf, den Ausstoß des Treibhausgases zu verringern. Im zuletzt gefassten Pariser Klimaschutzabkommen von 2015 verpflichten sich insgesamt 195 Staaten, die Erderwärmung auf 1,5 Grad zu begrenzen. Die Verringerung des CO2-Ausstoßes, zu der sich die unterzeichnenden Länder bereit erklärt haben, reicht dafür aber nicht aus.
+Die entscheidende Stellschraube, um die Erderwärmung zumindest zu begrenzen, sind die CO2-Emissionen. Schon bei der ersten Klimakonferenz 1995 in Berlin einigten sich die teilnehmenden Staaten darauf, den Ausstoß des Treibhausgases zu verringern. Im zuletzt gefassten Pariser Klimaschutzabkommen von 2015 verpflichten sich insgesamt 195 Staaten, die Erderwärmung auf 1,5 Grad zu begrenzen. Die Menge an CO2, die sie bereit sind, für dieses Ziel einzusparen, reicht dafür aber nicht aus.
 
 <YDILine name="co2"/>
 
