@@ -2,8 +2,8 @@
   "key": "co2",
   "heading": "Was schätzen Sie: Wie hat sich der weltweite CO2-Ausstoss seit der ersten Klimakonferenz 1995 entwickelt?",
   "subheading": "",
-  "result": "Obwohl bei der ersten UN-Klimakonferenz 1995 in Berlin bereits die Weichen für eine rechtlich verbindliche Verringerung der Treibhausgase gestellt wurden und diese zwei Jahre später im Kyoto-Protokoll festgelegt wurden, sind die weltweiten CO2-Emissionen seitdem weiter gestiegen. 2019 lagen sie mit 36.441 Millionen Tonnen CO2 um mehr als die Hälfte höher als im Jahr der ersten UN-Klimakonferenz. 1995 wurden insgesamt 23.332 Millionen Tonnen CO2 ausgestoßen.",
-  "accessibility": "Der weltweite CO2-Ausstoss ist von 23.332 Millionen Tonnen im Jahr 1995 auf 36.441 Millionen Tonnen im Jahr 2019 gestiegen.",
+  "result": "Obwohl bei der ersten UN-Klimakonferenz 1995 in Berlin bereits die Weichen für eine rechtlich verbindliche Verringerung der Treibhausgase gestellt wurden und diese zwei Jahre später im Kyoto-Protokoll festgelegt wurden, sind die weltweiten CO2-Emissionen seitdem weiter gestiegen. 2019 lagen sie mit 36,44 Milliarden Tonnen CO2 um mehr als die Hälfte höher als im Jahr der ersten UN-Klimakonferenz. 1995 wurden insgesamt 23,33 Milliarden Tonnen CO2 ausgestoßen.",
+  "accessibility": "Der weltweite CO2-Ausstoss ist von 23,33 Milliarden Tonnen im Jahr 1995 auf 36,44 Milliarden Tonnen im Jahr 2019 gestiegen.",
   "source": {
     "url": "http://www.globalcarbonatlas.org/en/CO2-emissions",
     "title": "Global Carbon Atlas"
@@ -11,252 +11,252 @@
   "knownData": [
     {
       "label": "60",
-      "value": 9335
+      "value": 9.335
     },
     {
       "label": "61",
-      "value": 9356
+      "value": 9.356
     },
     {
       "label": "62",
-      "value": 9688
+      "value": 9.688
     },
     {
       "label": "63",
-      "value": 10236
+      "value": 10.236
     },
     {
       "label": "64",
-      "value": 10770
+      "value": 10.770
     },
     {
       "label": "65",
-      "value": 11269
+      "value": 11.269
     },
     {
       "label": "66",
-      "value": 11794
+      "value": 11.794
     },
     {
       "label": "67",
-      "value": 12172
+      "value": 12.172
     },
     {
       "label": "68",
-      "value": 12836
+      "value": 12.836
     },
     {
       "label": "69",
-      "value": 13692
+      "value": 13.692
     },
     {
       "label": "70",
-      "value": 14827
+      "value": 14.827
     },
     {
       "label": "71",
-      "value": 15426
+      "value": 15.426
     },
     {
       "label": "72",
-      "value": 16143
+      "value": 16.143
     },
     {
       "label": "73",
-      "value": 17001
+      "value": 17.001
     },
     {
       "label": "74",
-      "value": 16926
+      "value": 16.926
     },
     {
       "label": "75",
-      "value": 16903
+      "value": 16.903
     },
     {
       "label": "76",
-      "value": 17800
+      "value": 17.800
     },
     {
       "label": "77",
-      "value": 18288
+      "value": 18.288
     },
     {
       "label": "78",
-      "value": 18959
+      "value": 18.959
     },
     {
       "label": "79",
-      "value": 19464
+      "value": 19.464
     },
     {
       "label": "80",
-      "value": 19370
+      "value": 19.370
     },
     {
       "label": "81",
-      "value": 18841
+      "value": 18.841
     },
     {
       "label": "82",
-      "value": 18701
+      "value": 18.701
     },
     {
       "label": "83",
-      "value": 18876
+      "value": 18.876
     },
     {
       "label": "84",
-      "value": 19426
+      "value": 19.426
     },
     {
       "label": "85",
-      "value": 20117
+      "value": 20.117
     },
     {
       "label": "86",
-      "value": 20402
+      "value": 20.402
     },
     {
       "label": "87",
-      "value": 21063
+      "value": 21.063
     },
     {
       "label": "88",
-      "value": 21866
+      "value": 21.866
     },
     {
       "label": "89",
-      "value": 22193
+      "value": 22.193
     },
     {
       "label": "90",
-      "value": 22698
+      "value": 22.698
     },
     {
       "label": "91",
-      "value": 23170
+      "value": 23.170
     },
     {
       "label": "92",
-      "value": 22445
+      "value": 22.445
     },
     {
       "label": "93",
-      "value": 22683
+      "value": 22.683
     },
     {
       "label": "94",
-      "value": 22844
+      "value": 22.844
     },
     {
       "label": "95",
-      "value": 23332
+      "value": 23.332
     }
   ],
   "unknownData": [
     {
       "label": "96",
-      "value": 24051
+      "value": 24.051
     },
     {
       "label": "97",
-      "value": 24191
+      "value": 24.191
     },
     {
       "label": "98",
-      "value": 24112
+      "value": 24.112
     },
     {
       "label": "99",
-      "value": 24431
+      "value": 24.431
     },
     {
       "label": "00",
-      "value": 25119
+      "value": 25.119
     },
     {
       "label": "01",
-      "value": 25332
+      "value": 25.332
     },
     {
       "label": "02",
-      "value": 25911
+      "value": 25.911
     },
     {
       "label": "03",
-      "value": 27176
+      "value": 27.176
     },
     {
       "label": "04",
-      "value": 28470
+      "value": 28.470
     },
     {
       "label": "05",
-      "value": 29411
+      "value": 29.411
     },
     {
       "label": "06",
-      "value": 30375
+      "value": 30.375
     },
     {
       "label": "07",
-      "value": 31294
+      "value": 31.294
     },
     {
       "label": "08",
-      "value": 31964
+      "value": 31.964
     },
     {
       "label": "09",
-      "value": 31464
+      "value": 31.464
     },
     {
       "label": "10",
-      "value": 33132
+      "value": 33.132
     },
     {
       "label": "11",
-      "value": 34210
+      "value": 34.210
     },
     {
       "label": "12",
-      "value": 34760
+      "value": 34.760
     },
     {
       "label": "13",
-      "value": 34987
+      "value": 34.987
     },
     {
       "label": "14",
-      "value": 35245
+      "value": 35.245
     },
     {
       "label": "15",
-      "value": 35209
+      "value": 35.209
     },
     {
       "label": "16",
-      "value": 35220
+      "value": 35.220
     },
     {
       "label": "17",
-      "value": 35696
+      "value": 35.696
     },
     {
       "label": "18",
-      "value": 36420
+      "value": 36.420
     },
     {
       "label": "19",
-      "value": 36441
+      "value": 36.441
     }
   ],
-  "maxY": 50000,
-  "unit": " Mio. t",
-  "precision": 0,
+  "maxY": 50,
+  "unit": " Mrd. t",
+  "precision": 2,
   "customMargin": {
-    "left": 110
+    "left": 90
   },
   "ticks": 10
 }

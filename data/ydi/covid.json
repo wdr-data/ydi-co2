@@ -11,18 +11,18 @@
     "knownData": [
         {
             "label": "2019",
-            "value": 36441
+            "value": 36.441
         }
     ],
     "unknownData": {
         "label": "2020",
-        "value": 34041
+        "value": 34.041
     },
-    "maxY": 50000,
-    "initialGuess": 36441,
-    "unit": " Mio. t",
-    "precision": 0,
+    "maxY": 50,
+    "initialGuess": 36.441,
+    "unit": " Mrd. t",
+    "precision": 2,
     "customMargin": {
-        "left": 110
+        "left": 80
     }
 }

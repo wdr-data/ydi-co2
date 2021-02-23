@@ -255,6 +255,8 @@
     "maxY": 15,
     "unit": "°C",
     "precision": 1,
-    "customMargin": {},
+    "customMargin": {
+        "left": 55
+    },
     "ticks": 10
 }
