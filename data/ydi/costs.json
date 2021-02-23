@@ -18,7 +18,7 @@
         "label": "4,4°C Erwärmung",
         "value": 4600
     },
-    "maxY": 9,
+    "maxY": 9000,
     "initialGuess": 1490,
     "unit": "Mrd €/Jahr",
     "precision": 1,
