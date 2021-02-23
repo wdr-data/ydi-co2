@@ -20,7 +20,7 @@ import YDIBar from '../components/ydi/ydiBar.jsx'
 import YDILine from '../components/ydi/ydiLine.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 
-## Co2, Erderwärmung, Meeresspiegel und Co.
+## CO2, Erderwärmung, Meeresspiegel und Co.
 
 # Wie steht es um den Klimaschutz
 
@@ -30,12 +30,13 @@ Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Kl
 
 Doch wie steht es überhaupt im Bezug auf Erderwärmung, CO2-Emissionen und Meeresspiegelanstieg?
 
-Was schätzen Sie?
-Überprüfen sie ihre Annahmen über die Fortschritte im Kampf gegen den Klimawandel
+# Was schätzen Sie?
+
+## Überprüfen sie ihre Annahmen über die Fortschritte im Kampf gegen den Klimawandel
 
 Mit „Was schätzen Sie“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
-
+Die entscheidende Stellschraube, um die Erderwärmung zumindest zu begrenzen, sind die CO2-Emissionen. Schon bei der ersten Klimakonferenz 1995 in Berlin einigten sich die teilnehmenden Staaten darauf, den Ausstoß des Treibhausgases zu verringern. Im zuletzt gefassten Pariser Klimaschutzabkommen 2015 zuletzt insgesamt 195 Staaten darauf, zu versuchen, die Erderwärmung auf 1,5 Grad zu begrenzen. Die Verringerung des CO2-Ausstoßes, zu der sich die unterzeichnenden Länder verpflichteten, reicht dafür aber nicht aus.
 
 <YDILine name="co2"/>
 
