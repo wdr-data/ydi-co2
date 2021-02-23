@@ -60,7 +60,7 @@ Mit dem Motto "America first" begründete der damalige US-Präsident Donald Trum
 
 ### Entschlossene Maßnahmen zeigen Wirkung
 
-Dass der Ausstoß von Treibhausgasen wie CO2 schnell und effektiv reduziert werden kann, hat die Corona-Pandemie gezeigt. Durch die weltweiten Lockdowns, während denen die Wirtschaft heruntergefahren wurde und unter anderem weniger Flugzeuge unterwegs waren, wurde auch die Umwelt entlastet.
+Dass der Ausstoß von Treibhausgasen wie CO2 schnell und effektiv reduziert werden kann, hat die Corona-Pandemie gezeigt. Durch die weltweiten Lockdowns, bei denen die Wirtschaft heruntergefahren wurde und unter anderem weniger Flugzeuge unterwegs waren, wurde auch die Umwelt entlastet.
 
 <YDIBar name="covid"/>
 
