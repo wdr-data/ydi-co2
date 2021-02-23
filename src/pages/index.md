@@ -1,5 +1,5 @@
 ---
-title: "Was schätzen Sie: Klimawandel"
+title: "Was schätzen Sie?: Klimawandel"
 description: WDR-Quiz zum Klimawandel
 author: Jörn Kießler
 pub_date: "2021-02-24"
