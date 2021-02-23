@@ -66,7 +66,7 @@ Dass der Ausstoß von Treibhausgasen wie CO2 schnell und effektiv reduziert werd
 
 <YDIBar name="covid"/>
 
-[Klimawandel: Diese radikalen Maßnahmen schlagen Wissenschaftler vor](https://https://www1.wdr.de/nachrichten/klimawandel-massnahmen-corona-100.html "WDR.de")
+#### [Klimawandel: Diese radikalen Maßnahmen schlagen Wissenschaftler vor](https://https://www1.wdr.de/nachrichten/klimawandel-massnahmen-corona-100.html "WDR.de")
 
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
