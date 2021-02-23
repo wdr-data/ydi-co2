@@ -20,7 +20,7 @@
     },
     "maxY": 150,
     "initialGuess": 19,
-    "unit": "cm",
+    "unit": " cm",
     "precision": 0,
     "customMargin": {}
 }
