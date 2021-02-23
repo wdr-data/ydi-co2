@@ -1,4 +1,4 @@
 module.exports = {
     pathPrefix: "",
-    origin: "https://data.wdr.de",
+    origin: "https://ydi-co2.netlify.app",
 }
