@@ -11,16 +11,16 @@
     "knownData": [
         {
             "label": "2°C Erwärmung",
-            "value": 1.49
+            "value": 1490
         }
     ],
     "unknownData": {
         "label": "4,4°C Erwärmung",
-        "value": 4.6
+        "value": 4600
     },
     "maxY": 9,
-    "initialGuess": 1.49,
-    "unit": "B €/Jahr",
+    "initialGuess": 1490,
+    "unit": "Mrd €/Jahr",
     "precision": 1,
     "customMargin": {
         "left": 80
