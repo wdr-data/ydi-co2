@@ -48,7 +48,7 @@ Auch vor Deutschland macht der Klimawandel nicht halt. Sogenannte Extremwetterer
 
 ### Meeresspiegelanstieg
 
-Hauptfolge der Erderwärmung ist das Abschmelzen des arktischen Meereises und der Anstieg des Meeresspiegels. Dem Beginn des vergangenen Jahrhunderts ist der Meerespegel schon um 19 Zentimeter gestiegen. Der Weltklimarat veröffentlicht dazu regelmäßig aktualisierte Prognosen - so auch im vergangenen Jahr.
+Hauptfolge der Erderwärmung ist das Abschmelzen des arktischen Meereises und der Anstieg des Meeresspiegels. Seit dem Beginn des vergangenen Jahrhunderts ist der Meeresspiegel schon um 19 Zentimeter gestiegen. Der Weltklimarat veröffentlicht dazu regelmäßig aktualisierte Prognosen - so auch im vergangenen Jahr.
 
 <YDIBar name="sealevel"/>
 
