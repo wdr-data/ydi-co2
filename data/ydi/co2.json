@@ -5,8 +5,8 @@
   "result": "Obwohl bei der ersten UN-Klimakonferenz 1995 in Berlin bereits die Weichen für eine rechtlich verbindliche Verringerung der Treibhausgase gestellt wurden und diese zwei Jahre später im Kyoto-Protokoll festgelegt wurden, sind die weltweiten CO2-Emissionen seitdem weiter gestiegen. 2019 lagen sie mit 36,44 Milliarden Tonnen CO2 um mehr als die Hälfte höher als im Jahr der ersten UN-Klimakonferenz. 1995 wurden insgesamt 23,33 Milliarden Tonnen CO2 ausgestoßen.",
   "accessibility": "Der weltweite CO2-Ausstoss ist von 23,33 Milliarden Tonnen im Jahr 1995 auf 36,44 Milliarden Tonnen im Jahr 2019 gestiegen. Allerdings sanken die weltweiten CO2-Emissionen von 2019 zu 2020 – bedingt durch die Covid-Pandemie.",
   "source": {
-    "url": "https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2020",
-    "title": "Global Carbon Project"
+    "url": "http://www.globalcarbonatlas.org/en/CO2-emissions",
+    "title": "Global Carbon Atlas"
   },
   "knownData": [
     {
