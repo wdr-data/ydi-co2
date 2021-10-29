@@ -2,7 +2,7 @@
 title: "Was schätzen Sie?: Klimawandel"
 description: WDR-Quiz zum Klimawandel
 author: Jörn Kießler
-pub_date: "2021-10-30"
+pub_date: "2021-10-31"
 heroImage: "ydi-co2.jpg"
 heroAlt: "Ein kleines Boot fährt neben einem Eisberg in Grönland"
 heroCredit: "dpa/Felipe Dana"
