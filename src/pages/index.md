@@ -2,7 +2,7 @@
 title: "Was schätzen Sie?: Klimawandel"
 description: WDR-Quiz zum Klimawandel
 author: Jörn Kießler
-pub_date: "2021-07-28"
+pub_date: "2021-10-30"
 heroImage: "ydi-co2.jpg"
 heroAlt: "Ein kleines Boot fährt neben einem Eisberg in Grönland"
 heroCredit: "dpa/Felipe Dana"
@@ -26,7 +26,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 Vor fast 30 Jahren einigte sich die Weltgemeinschaft darauf, dass der Klimawandel eine ernsthafte Bedrohung ist. Seit 1995 wird jährlich auf der UN-Klimakonferenz verhandelt, wie die menschgemachte Erderwärmung zumindest gebremst werden kann. Doch oft sind nur Kompromisse möglich, weil sonst die Gefahr besteht, dass Staaten - wie zuletzt die USA - aus dem Abkommen aussteigen.
 
-Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Klimawandel ins Stocken. Wegen der Krise musste die 26. Auflage der Klimakonferenz um ein Jahr verschoben werden und soll erst im November dieses Jahres stattfinden.
+Im vergangenen Jahr brachte dann noch die Corona-Pandemie den Kampf gegen den Klimawandel ins Stocken. Wegen der Krise musste die 26. Auflage der Klimakonferenz um ein Jahr verschoben werden. Nun findet sie ab dem 31. Oktober 2021 im schottischen Glasgow statt.
 
 Doch wie steht es überhaupt um Erderwärmung, CO2-Emissionen und Meeresspiegelanstieg?
 
